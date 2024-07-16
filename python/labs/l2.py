@@ -57,4 +57,3 @@ def gf2_mul(a: str, b: str) -> str:
 
 
 def gf2_div(a: str, b: str) -> (str, str):
-
